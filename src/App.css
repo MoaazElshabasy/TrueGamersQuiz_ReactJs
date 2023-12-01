@@ -1,0 +1,135 @@
+.App {
+  text-align: center;
+ 
+}
+
+
+.question-card {  
+  margin: 0 auto;
+  background-color: grey;
+  padding: 16px;
+  color: aliceblue;
+  border-radius: 16px;
+  width: 80%;
+  height: auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.assassin-creed-card {  
+  background-image: url(/images/bk1.jpg);
+  background-size:cover;
+  margin: 0 auto;
+  background-color: grey;
+  padding: 16px;
+  color: aliceblue;
+  border-radius: 16px;
+  width: 80%;
+  height: auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.dark-souls-card {  
+  background-image: url(/images/bk2.jpg);
+  background-size:cover;
+  margin: 0 auto;
+  background-color: grey;
+  padding: 16px;
+  color: aliceblue;
+  border-radius: 16px;
+  width: 80%;
+  height: auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.minecraft-card {  
+  background-image: url(/images/bk3.jpg);
+  background-size:cover;
+  margin: 0 auto;
+  background-color: grey;
+  padding: 16px;
+  color: aliceblue;
+  border-radius: 16px;
+  width: 80%;
+  height: auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.borderlands-card {  
+  background-image: url(/images/bk4.jpg);
+  background-size:cover;
+  margin: 0 auto;
+  background-color: grey;
+  padding: 16px;
+  color: aliceblue;
+  border-radius: 16px;
+  width: 80%;
+  height: auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+.sea-of-theives-card {  
+  background-image: url(/images/bk5.jpg);
+  background-size:cover;
+  margin: 0 auto;
+  background-color: grey;
+  padding: 16px;
+  color: aliceblue;
+  border-radius: 16px;
+  width: 80%;
+  height: auto;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  background-color: darkslategray;
+  padding:  16px;
+  border: 1px solid #01ECFF;
+  border-radius: 20px;
+  font-size: 20px;
+  margin-top: 8px;
+}
+
+.question-text {
+  color: lightcyan;
+  font-size: 24px;
+}
+
+.final-results {
+  margin: 0 auto;
+  width: 50%; 
+  height: auto;
+  margin-top: 64px;
+
+  background-color: gray;
+  padding: 16px;
+  border-radius: 16px;
+  color: white;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px,
+    rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+}
+
+button {
+  background-color: navy; 
+  border: none;
+  color: white;
+  padding: 16px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+
+  border-radius: 24px;
+}
+
+
